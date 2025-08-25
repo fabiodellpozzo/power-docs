@@ -67,3 +67,17 @@ Stacks populares para desenvolvimento local com PHP, MySQL e Apache.
 
 ---
 
+💡 Definição de "Escaláveis" no Desenvolvimento Web
+No contexto de desenvolvimento web, "escalável" se refere à capacidade de um sistema, aplicação ou arquitetura de lidar com um aumento de carga ou demanda sem perder desempenho ou estabilidade. Isso pode envolver mais usuários simultâneos, mais dados sendo processados, ou mais funcionalidades sendo adicionadas.
+🧱 Características de uma aplicação escalável
+- Performance consistente: Mesmo com milhares (ou milhões) de usuários, a aplicação continua rápida e responsiva.
+- Arquitetura modular: Componentes independentes que podem ser atualizados ou replicados sem afetar o sistema como um todo.
+- Uso eficiente de recursos: Boa gestão de memória, CPU, banco de dados e rede.
+- Capacidade de expansão horizontal ou vertical:
+- Horizontal: adicionar mais servidores ou instâncias.
+- Vertical: melhorar os recursos de um servidor (mais RAM, CPU etc).
+- Automação e monitoramento: Ferramentas que ajudam a escalar automaticamente quando necessário.
+🛠 Exemplos práticos
+- Um site de e-commerce que aguenta o tráfego da Black Friday sem cair.
+- Uma API que responde rapidamente mesmo com milhares de requisições por segundo.
+- Um sistema de login que pode ser replicado em múltiplos servidores para distribuir carga.
