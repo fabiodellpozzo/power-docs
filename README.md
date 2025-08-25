@@ -23,7 +23,7 @@ Stacks populares para desenvolvimento local com PHP, MySQL e Apache.
 
 ---
 
-### 💡 DEscolher o Stack Ideal
+### 💡 Escolher o Stack Ideal
 
 - Foco em **PHP e MySQL**, XAMPP, WAMP ou Laragon são ótimos.
 - Se quer trabalhar com **JavaScript full-stack**, MEAN ou MERN são mais modernos.
