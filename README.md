@@ -79,7 +79,7 @@ No contexto de desenvolvimento web, "escalável" se refere à capacidade de um s
 - Horizontal: adicionar mais servidores ou instâncias.
 - Vertical: melhorar os recursos de um servidor (mais RAM, CPU etc).
 - Automação e monitoramento: Ferramentas que ajudam a escalar automaticamente quando necessário.
-- 
+  
 🛠 Exemplos práticos
 
 - Um site de e-commerce que aguenta o tráfego da Black Friday sem cair.
